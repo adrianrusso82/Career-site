@@ -848,11 +848,12 @@ hr {
 		}
 
 		.container1 		{
-			text-align: center;
-			width: 100%;
-			vertical-align: middle;
-			height: 100%;
-			display: table-cell;
+		border-radius: 0;
+		border-bottom: 1px solid #e7e7e7;
+		border-top: 1px solid #e7e7e7;
+		margin: 50px 0;
+		height: 800px;
+
 	}
 	/* FORMS
 	---------------------------------------------------------------*/
