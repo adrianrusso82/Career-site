@@ -847,6 +847,12 @@ hr {
 			margin: 0.5em 0;
 		}
 
+		.container1 		{
+
+		border-radius: 0;
+		border-bottom: 1px solid #e7e7e7;
+		border-top: 1px solid #e7e7e7;
+	}
 	/* FORMS
 	---------------------------------------------------------------*/
 
